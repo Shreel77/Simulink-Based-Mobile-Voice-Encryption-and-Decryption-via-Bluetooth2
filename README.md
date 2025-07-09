@@ -95,7 +95,7 @@ Play Decrypted Audio (Method 2)
  # Video Demonstration
 
  # Click Here to Watch
-[](https://www.youtube.com/watch?v=L1J6Nn4XBtY)
+[(https://www.youtube.com/watch?v=L1J6Nn4XBtY)]
 
 # Simulink Files
 PhoneA_Transmitter.slx
